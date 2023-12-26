@@ -2,7 +2,7 @@
 Citește ultimele știri din sport
 
 ## About
-Folosind sport.ro citește noutățile din sport
+Skill Mycroft, care folosind sport.ro citește noutățile din sport
 
 ## Examples
 * "Care sunt știrile din sport"
